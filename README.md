@@ -7,7 +7,7 @@ Welcome to the **News Website Project**, a fully responsive and interactive webs
 1. Download the Project or Clone the repository
 2. Open `index.html` in your browser to view the website.
 
-✨ **Stay updated with the latest news—explore the website now!**
+✨ **Stay updated with the latest news through this website!**
 
 ## 🚀 Features
 
