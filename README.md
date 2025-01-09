@@ -1,3 +1,4 @@
+# News Website Project 📰
 Welcome to the **News Website Project**, a fully responsive and interactive website that delivers the latest news across various categories, including Business, Technology, Sports, and more. This project is perfect for showcasing web development skills and building an engaging user experience.
 
 ## How to Use
